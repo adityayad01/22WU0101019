@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
+pinecone-client
+ollama
+streamlit
